@@ -10,6 +10,10 @@ A wave-based CLI survival game built in Python using the curses library.
 Built by ALCHEMISTDEV-007.
 
 ---
+## 📸 Screenshot
+
+![Gameplay](screenshot.png)
+
 
 ## 🚀 Features
 
